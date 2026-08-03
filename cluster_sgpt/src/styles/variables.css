@@ -1,0 +1,26 @@
+:root {
+  --bg-color-main: #0a0e17;
+  --bg-color-glass: rgba(16, 23, 38, 0.6);
+  --border-glass: rgba(255, 255, 255, 0.08);
+  
+  --text-main: #f0f4f8;
+  --text-muted: #94a3b8;
+  
+  --color-layoff: #ef4444; /* red-500 */
+  --color-layoff-glow: rgba(239, 68, 68, 0.3);
+  
+  --color-hiring: #10b981; /* emerald-500 */
+  --color-hiring-glow: rgba(16, 185, 129, 0.3);
+  
+  --color-primary: #3b82f6; /* blue-500 */
+  
+  --font-family-main: 'Outfit', sans-serif;
+  
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --radius-xl: 32px;
+  
+  --shadow-glass: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+  --shadow-glow: 0 0 20px var(--color-primary-glow);
+}
